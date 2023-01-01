@@ -1,0 +1,3 @@
+{
+  "connectionString":"InstrumentationKey=30595c9b-ce2b-4656-9e57-cbcc6e3997e9;IngestionEndpoint=https://westus-0.in.applicationinsights.azure.com/;LiveEndpoint=https://westus.livediagnostics.monitor.azure.com/"
+}
